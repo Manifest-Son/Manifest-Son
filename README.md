@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [![Manifest-Son GitHub stats](https://manifest-son.vercel.app/api?username=Manifest-Son)](https://manifest-son.vercel/api?username=Manifest-Son)
-[![Manifest-Son GitHub stats](https://manifest-son.vercel.app/api?username=Manifest-Son)](https://github.com/anuraghazra/github-readme-stats)
+[![Manifest-Son GitHub stats](https://github-readme-stats.vercel.app/api?username=Manifest-Son)](https://github.com/anuraghazra/github-readme-stats)
